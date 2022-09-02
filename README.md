@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muhammad Abdullah Iqbal.
 - 👀 I’m interested in coding and programming.
 - 🌱 I’m currently doing Bscs.
-- 💞️ I’m a full stack devceloper.
+- 💞️ I’m a full stack developer.
