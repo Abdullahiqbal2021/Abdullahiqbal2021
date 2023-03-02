@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Muhammad Abdullah Iqbal.
-- 👀 I’m interested in coding and programming.
+- 💻 Intrested in coding and designing.
 - 🌱 I’m currently doing Bscs.
 - 💞️ I’m a full stack developer.
+- 🗺️ From Lahore,Pakistan
