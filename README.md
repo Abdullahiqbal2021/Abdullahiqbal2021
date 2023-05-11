@@ -5,9 +5,6 @@
   <p>
 💻     Full-Stack Developer
   </p>
-  <p>
-🎨     Designer
-</p>
     <p>
 🗺️     From Lahore,Pakistan
 </p>
