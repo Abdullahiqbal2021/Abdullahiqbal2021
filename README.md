@@ -58,4 +58,4 @@
 
 ---
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahiqbal2021&" alt="afeefa-batool" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahiqbal2021&" alt="Github Stats" /></p>
